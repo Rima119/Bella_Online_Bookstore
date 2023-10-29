@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.bg-personized {
+	background-color: #b2c1fc;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background-color: #d67d63;
+	color: white;
+	border-radius: 20px;
+}
